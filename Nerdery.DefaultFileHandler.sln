@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerdery.DefaultFileHandler", "Nerdery.DefaultFileHandler\Nerdery.DefaultFileHandler.csproj", "{B4C7F204-7C38-431B-96D3-4F7D10D421FB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Nerdery.Handlers.Installer", "Nerdery.Handlers.Installer\Nerdery.Handlers.Installer.vdproj", "{07DE6A12-00BB-4531-B0B5-11A5BE8030E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C7F204-7C38-431B-96D3-4F7D10D421FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C7F204-7C38-431B-96D3-4F7D10D421FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C7F204-7C38-431B-96D3-4F7D10D421FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C7F204-7C38-431B-96D3-4F7D10D421FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DE6A12-00BB-4531-B0B5-11A5BE8030E2}.Debug|Any CPU.ActiveCfg = Debug
+		{07DE6A12-00BB-4531-B0B5-11A5BE8030E2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
